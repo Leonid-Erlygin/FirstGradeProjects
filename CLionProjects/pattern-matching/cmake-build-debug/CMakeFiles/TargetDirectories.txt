@@ -1,0 +1,3 @@
+/home/leonid/CLionProjects/pattern-matching/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonid/CLionProjects/pattern-matching/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonid/CLionProjects/pattern-matching/cmake-build-debug/CMakeFiles/pattern_matching.dir

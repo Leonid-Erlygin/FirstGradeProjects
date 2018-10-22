@@ -1,0 +1,3 @@
+/home/leonid/CLionProjects/brokers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonid/CLionProjects/brokers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonid/CLionProjects/brokers/cmake-build-debug/CMakeFiles/brokers.dir

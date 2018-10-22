@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonid/CLionProjects/fupm2/main.cpp
+iostream
+-
+map
+-
+string
+-
+fstream
+-
+vector
+-
+stack
+-
+

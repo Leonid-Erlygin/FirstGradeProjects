@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Covering_recraingle.dir/main.cpp.o  -o Covering_recraingle 

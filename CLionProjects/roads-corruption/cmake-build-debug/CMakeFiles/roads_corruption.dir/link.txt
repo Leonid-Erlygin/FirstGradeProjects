@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/roads_corruption.dir/main.cpp.o  -o roads_corruption 

@@ -1,0 +1,3 @@
+/home/leonid/CLionProjects/fupm2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonid/CLionProjects/fupm2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonid/CLionProjects/fupm2/cmake-build-debug/CMakeFiles/fupm2.dir

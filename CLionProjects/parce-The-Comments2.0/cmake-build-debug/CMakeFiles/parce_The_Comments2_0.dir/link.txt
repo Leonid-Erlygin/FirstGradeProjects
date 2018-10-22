@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/parce_The_Comments2_0.dir/main.cpp.o  -o parce_The_Comments2_0 

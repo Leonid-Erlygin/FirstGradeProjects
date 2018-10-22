@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/xor_requests.dir/main.cpp.o  -o xor_requests 

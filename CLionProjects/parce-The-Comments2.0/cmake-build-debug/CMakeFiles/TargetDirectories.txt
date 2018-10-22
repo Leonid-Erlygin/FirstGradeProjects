@@ -1,0 +1,3 @@
+/home/leonid/CLionProjects/parce-The-Comments2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonid/CLionProjects/parce-The-Comments2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonid/CLionProjects/parce-The-Comments2.0/cmake-build-debug/CMakeFiles/parce_The_Comments2_0.dir

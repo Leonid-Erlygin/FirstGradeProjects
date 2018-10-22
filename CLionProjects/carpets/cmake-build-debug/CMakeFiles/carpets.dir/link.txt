@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/carpets.dir/main.cpp.o  -o carpets 

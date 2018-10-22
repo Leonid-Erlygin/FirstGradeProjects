@@ -1,0 +1,3 @@
+/home/leonid/CLionProjects/parse-comments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonid/CLionProjects/parse-comments/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonid/CLionProjects/parse-comments/cmake-build-debug/CMakeFiles/parse_comments.dir
